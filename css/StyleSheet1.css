@@ -1,0 +1,224 @@
+﻿.wrapper {
+	width:100%;
+	overflow:hidden;
+}
+
+.wrap {
+	height:auto !important;
+	height:100%;
+	min-height:100%;
+	background:#ffffff;
+	min-width:940px;
+}
+
+header {
+	min-width:940px;
+    width:940px;
+    margin:0 auto;
+}
+
+header .container {
+	height:194px;
+	position:relative;
+	padding:0;
+}
+
+.container {
+	margin:0 auto;
+	width:940px;
+	overflow:hidden;
+	font-size:.875em;
+	padding-bottom:50px;
+}
+
+leftpage {
+	width:35%;
+	float:left;
+}
+
+rightpage#content {
+	float:right;
+	width:55%;
+    /*float: left;
+    padding-left: 65px;
+    width: 769px;	*/
+}
+
+titlename {
+    padding-top:30px;
+    display: block;
+    margin: auto;
+    width: 40%;
+    font-size:50px;
+    text-align:center;
+    color:bisque;
+    font-family:cursive;
+}
+
+saying {
+    padding-top:30px;
+    display: block;
+    margin: auto;
+    width: 50%;
+    font-size:20px;
+    text-align:center;
+    color:burlywood;
+}
+
+headcontact {
+    background:#ff6a00;
+    font-size:30px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    width:100%;
+    text-align:center;
+    color:white;
+}
+
+headaboutme {
+    background:red;
+    font-size:30px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    width:100%;
+    text-align:center;
+    color:white;
+}
+
+headhobbies {
+    background:green;
+    font-size:30px;
+    display: block;
+    margin: auto;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    width:100%;
+    text-align:center;
+    color:white;
+}
+
+headskills {
+    background:blue;
+    font-size:30px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    width:100%;
+    text-align:center;
+    color:white;
+}
+
+headlanguages {
+    background:violet;
+    font-size:30px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    width:100%;
+    text-align:center;
+    color:white;
+}
+
+headedu {
+    background:#557a6b;
+    font-size:30px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    width:100%;
+    text-align:center;
+    color:white;
+}
+
+
+subcontactrealname {
+    display: block;
+    margin: auto;
+    margin-left:30px;
+    width:100%;
+    text-align:left;
+    font-size:20px;
+    color:green;
+}
+
+subcontactbirthday {
+    display: block;
+    margin: auto;
+    margin-left:30px;
+    width:100%;
+    text-align:left;
+    font-size:20px;
+    color:purple;
+}
+
+subcontactsex {
+    display: block;
+    margin: auto;
+    margin-left:30px;
+    width:100%;
+    text-align:left;
+    font-size:20px;
+    color:purple;
+}
+
+subcontactbirhtday {
+    display: block;
+    margin: auto;
+    margin-left:30px;
+    width:100%;
+    text-align:left;
+    font-size:20px;
+    color:red;
+}
+
+subcontactnationality {
+    display: block;
+    margin: auto;
+    margin-left:30px;
+    width:100%;
+    text-align:left;
+    font-size:20px;
+    color:blue;
+}
+
+subcontactemail {
+    display: block;
+    margin: auto;
+    margin-left:30px;
+    width:100%;
+    text-align:left;
+    font-size:20px;
+    color:orange;
+}
+
+subcontactfacebook {
+    display: block;
+    margin: auto;
+    margin-left:30px;
+    width:100%;
+    text-align:left;
+    font-size:20px;
+    color:violet;
+}
+
+subcontactaddress {
+    display: block;
+    margin: auto;
+    margin-left:30px;
+    width:100%;
+    text-align:left;
+    font-size:20px;
+    color:darksalmon;
+}
+
+p {
+    margin-top: 5px;
+    margin-left: 30px;
+}
